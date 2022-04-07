@@ -25,3 +25,9 @@ to visualise this).
 
 I took the better part of a day to build this ... not quite 4 hours,
 probably closer to 8. Note: I'm still learning React!
+
+## Usage
+
+This app was created with [Vite](https://vitejs.dev/). To run, clone this repo and run `npm install` and `npm run dev` from the project root.
+
+Once it's running, open localhost:3000, enter some search terms and click away!
